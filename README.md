@@ -6,7 +6,7 @@ Download the files as a zip using the green button, or clone the repository to y
 
 ## Notes
 
-This repository is designed to be used with my [*development installation*] (https://github.com/rlang970417/orasetup-windows) of Oracle on Windows Server.
+This repository is designed to be used with my [*development installation*](https://github.com/rlang970417/orasetup-windows) of Oracle on Windows Server.
 
 ## References
 
